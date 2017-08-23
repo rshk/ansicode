@@ -16,7 +16,7 @@ setup(
     name='ansicode',
     version=version,
     packages=find_packages(),
-    url='PACKAGE_URL',
+    url='https://pypi.python.org/pypi/ansicode',
     license='BSD License',
     author='Samuele Santi',
     author_email='samuele@samuelesanti.com',
